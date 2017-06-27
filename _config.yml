@@ -2,7 +2,7 @@
 title: Miles Gratz
 subtitle:
 email: milesgratz@gmail.com
-description: System Engineer<br />PowerShell Developer<br />Coffee Enthusiast
+description: System Engineer // PowerShell Developer // Coffee Enthusiast
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://milesgratz.github.io" # the base hostname & protocol for your site
 author: Miles Gratz
@@ -15,7 +15,7 @@ phone: (708) 446-4185
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings
 500px_url:
