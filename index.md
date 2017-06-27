@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-Computers, coffee, bicycles, etc. 
+Computers, coffee, bicycles, etc.
