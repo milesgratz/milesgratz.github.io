@@ -1,6 +1,6 @@
 # site settings
 title: Miles Gratz
-subtitle: serveradventures
+subtitle:
 email: milesgratz@gmail.com
 description: Computers, coffee, bicycles, etc.
 baseurl: # the subpath of your site, e.g. /blog
