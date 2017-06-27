@@ -6,5 +6,3 @@ description: null
 image: null
 author: null
 ---
-
-System Engineer // PowerShell Developer
