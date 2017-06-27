@@ -2,7 +2,7 @@
 title: Miles Gratz
 subtitle:
 email: milesgratz@gmail.com
-description: Computers, coffee, bicycles, etc.
+description:
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://milesgratz.github.io" # the base hostname & protocol for your site
 author: Miles Gratz
@@ -10,7 +10,7 @@ street_address:
 city: Chicago
 state: IL
 zip_code:
-country: United States of America
+country: USA
 phone: (708) 446-4185
 
 # homepage tiles
