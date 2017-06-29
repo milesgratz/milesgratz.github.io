@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: archive
 title: All posts
 landing-title: 'All posts'
 description: null
