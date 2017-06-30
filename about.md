@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: about
-description: '<b>Pros</b>: Passionate, funny, writes half-decent code. <br><b>Cons</b>: Fear of needles, regular expressions, and IPv6. 
+description: '<b>Pros</b>: Passionate, funny, writes half-decent code. <br><b>Cons</b>: Fear of needles, regular expressions, and IPv6.'
 image: assets/images/about_banner.jpg
 nav-menu: true
 ---
