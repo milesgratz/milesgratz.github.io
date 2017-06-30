@@ -23,10 +23,10 @@
 			{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
 			{% if currentyear != year %}
 				{% unless forloop.first %}</ul>{% endunless %}
-					<h2>{{ currentyear }}</h2>
+					<h3>{{ currentyear }}</h3>
 					{% capture year %}{{currentyear}}{% endcapture %}
 				{% endif %}
-			<li><h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4></li>
+			<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
 			{% if forloop.last %}</ul>{% endif %}
 		{% endfor %}
 	</div>
