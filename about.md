@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: about
-description: '<b>Pros</b>: Good with computers. Fun to work with.<br /><b>Cons</b>: Talks about PowerShell a lot. Irrational fear of needles. Spider sympathizer.'
+description: '<b>Pros</b>: Passionate, sense of humor, can write some half-decent code. <br><b>Cons</b>: Likes PowerShell. Irrational fear of needles. Spider sympathizer.'
 image: assets/images/about_banner.jpg
 nav-menu: true
 ---
