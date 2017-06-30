@@ -1,8 +1,8 @@
 ---
 title: About Me
 layout: about
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: '<b>Pros</b>: Good with computers. Fun to work with.<br /><b>Cons</b>: Talks about PowerShell a lot. Irrational fear of needles. Spider sympathizer.'
+image: assets/images/about_banner.jpg
 nav-menu: true
 ---
 
